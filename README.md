@@ -21,5 +21,5 @@ This is the task for backend internship.
 - `/api/v1/admin/applyformula` - For doing the operations on the data in excel file
 
 ### 🛠️ Token routes.
-- `/api/v1/refresh-token` - For signup of the user
+- `/api/v1/refresh-token` - For updating the token
 
